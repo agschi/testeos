@@ -105,3 +105,4 @@ Los metadatos del artículo habilitan ciertas funcionalidades en el sitio web az
 Consulte [Azure technical content contributors' guide index](./contributor-guide/contributor-guide-index.md) para ver todos nuestros temas de guía.
 
 <!-----HONumber=AcomDC_1203_2015------>
+<!-----Comentario dos------>
