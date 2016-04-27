@@ -26,6 +26,10 @@ En el vídeo siguiente se muestra cómo crear un back-end de API web cómo prote
 -	Configurar una aplicación de escritorio para llamar a la API, a partir de las 18:08
 -	Configurar una directiva de validación de JWT para autorizar previamente las solicitudes, a partir de las 20:47
 
+
+TU HERMANA ME BAILA EN TANGA
+
+
 >[AZURE.VIDEO protecting-web-api-backend-with-azure-active-directory-and-api-management]
 
 ## Crear un directorio de Azure AD
