@@ -41,6 +41,7 @@ A continuación, debe crear una aplicación en su directorio B2C. Esto proporcio
 
 ## Crear sus directivas
 LA VELA AMEO LA VELA AMEO AMEOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO AMEOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+urtytsgdzxbgfgfgfz
 En Azure AD B2C, cada experiencia del usuario se define mediante una [directiva](active-directory-b2c-reference-policies.md). Este ejemplo de código contiene tres experiencias de identidad: registro, inicio de sesión y edición de perfil. Tendrá que crear una directiva de cada tipo, como se describe en el [artículo de referencia de las directivas](active-directory-b2c-reference-policies.md#how-to-create-a-sign-up-policy). Cuando cree las tres directivas, asegúrese de:
 
 - Elegir **Registro con id. de usuario** o **Registro con correo electrónico** en la hoja de proveedores de identidades.
