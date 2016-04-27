@@ -22,6 +22,7 @@ Azure Active Directory (Azure AD) B2C proporciona identidad como servicio para s
 
 <!-- TODO: Need link to libraries above -->
 
+RELOCO RE ZARPADO ARREGLANDO MD TOO EL DIA AMEO
 [AZURE.INCLUDE [active-directory-b2c-preview-note](../../includes/active-directory-b2c-preview-note.md)]
 
 ## Conceptos básicos
