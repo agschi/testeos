@@ -109,3 +109,4 @@ Microsoft publica varios pósteres e infografías relacionados con la arquitectu
 ![Infografías de arquitectura de Azure](./media/architecture-overview/AzureArchInfographicThumb.jpg)
 
 <!---HONumber=AcomDC_0128_2016-->
+<!---Otro comentario-->
