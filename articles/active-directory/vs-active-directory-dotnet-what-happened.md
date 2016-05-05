@@ -25,7 +25,7 @@
 
 
 ## Se han agregado referencias
-
+Cambio de Lucas
 ### Referencias de paquetes de NuGet
 
 - **Microsoft.IdentityModel.Protocol.Extensions**
