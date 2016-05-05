@@ -27,7 +27,10 @@
 ## Se han agregado referencias
 TUHERMANALAMASPUTA
 Cambio de Lucas
-### Referencias de paquetes de NuGet     Pituli
+
+QUE QUEDE UN CONFLICTO EN ESE PR PERO QUE QUEDE PARA VOS ARREGLARLO.
+
+### Referencias de paquetes de NuGet
 
 - **Microsoft.IdentityModel.Protocol.Extensions**
 - **Microsoft.Owin**
