@@ -35,6 +35,7 @@ Para crear un extremo de entrada, agregue el elemento secundario **InputEndpoint
 
 ## Extremo de entrada de instancia
 
+ODIO LOS BILLETES EVITA
 ************************************
 Los extremos de entrada de instancia son similares a los extremos de entrada, pero los primeros permiten asignar puertos específicos de acceso público a cada instancia de rol individual mediante el enrutamiento de puertos en el equilibrador de carga. Puede especificar un único puerto público o un intervalo de puertos.
 
