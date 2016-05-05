@@ -27,7 +27,7 @@
 ## Se han agregado referencias
 TUHERMANALAMASPUTA
 Cambio de Lucas
-### Referencias de paquetes de NuGet
+### Referencias de paquetes de NuGet     Pituli
 
 - **Microsoft.IdentityModel.Protocol.Extensions**
 - **Microsoft.Owin**
