@@ -29,7 +29,11 @@ En este tutorial se muestra cómo crear una aplicación .NET de múltiples nivel
 En el tutorial se muestra cómo crear y ejecutar la aplicación localmente, cómo implementarla en Azure y ejecutarla en la nube y, por último, cómo crearla desde cero. Puede comenzar por crearla desde cero y después llevar a cabo los pasos de prueba e implementación si lo prefiere.
 
 ## Aplicación Contoso Ads
+
 If  hskfhfjsd gfdg kgsg - OK
+
+AMEO ENTREGA LE TACATACA AMEO LA FAFAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
 La aplicación es un tablón de anuncios publicitario. Los usuarios crean un anuncio introduciendo texto y cargando una imagen. Pueden ver una lista de anuncios con imágenes en miniatura y ver la imagen a tamaño completo cuando seleccionan un anuncio para ver los detalles.
 
 ![Ad list](./media/cloud-services-dotnet-get-started/list.png)
