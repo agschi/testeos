@@ -25,6 +25,7 @@
 
 
 ## Se han agregado referencias
+TUHERMANALAMASPUTA
 Cambio de Lucas
 ### Referencias de paquetes de NuGet
 
