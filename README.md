@@ -31,7 +31,7 @@ Puede colaborar en el [Centro de documentación de Azure](http://azure.microsoft
 
 Las correcciones menores o aclaraciones que se envían para la documentación y los ejemplos de código de este repositorio están cubiertos por los [Términos de Uso del Sitio Web de Microsoft Azure](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
-
+HHHHHHHH  LUCAS
 ###Envíos mayores
 
 Si se envía una solicitud de incorporación de cambios con cambios importantes o nuevos para la documentación y los ejemplos de código, pondremos un comentario en GitHub en el que le solicitaremos que envíe un Contrato de licencia de colaboración (CLC) en línea si se encuentra en uno de estos grupos:
