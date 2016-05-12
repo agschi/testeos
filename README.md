@@ -29,7 +29,13 @@ Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de
 Las correcciones menores o aclaraciones que se envían para la documentación y los ejemplos de código de este repositorio están cubiertos por los [Términos de Uso del Sitio Web de Microsoft Azure](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
 
+<<<<<<< HEAD
+AGUANTEELCOLORADOHOMME
+||||||| merged common ancestors
+###Envíos mayores
+=======
 ###Envíos mayores - #Envio menor
+>>>>>>> upstream/master
 
 
 
