@@ -18,7 +18,7 @@ Gracias por su interés en la documentación de Azure.
 * [Más recursos](#Más recursos)
 * [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md) (abre una nueva página)
 
-## Formas de colaborar    
+VIVAELLEONDEFRANCIA
 
 Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de GitHub. Busque el artículo en este repositorio, o bien consulte el artículo en [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation), y haga clic en el vínculo en el artículo que lleva al archivo de origen de GitHub para el artículo.
 
