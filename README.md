@@ -4,7 +4,7 @@ Ha encontrado el repositorio de GitHub, que contiene los archivos de origen de l
 
 Este repositorio también contiene una guía para ayudarle a colaborar con nuestra documentación técnica. Para ver una lista de los artículos incluidos en la guía del colaborador, consulte [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 
-## Colaboración en la documentación de Azure
+CONCRISTINAESTONOPASABA
 
 Gracias por su interés en la documentación de Azure.
 
