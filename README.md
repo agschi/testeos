@@ -29,7 +29,7 @@ Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de
 Las correcciones menores o aclaraciones que se envían para la documentación y los ejemplos de código de este repositorio están cubiertos por los [Términos de Uso del Sitio Web de Microsoft Azure](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
 
-###Envíos mayores
+###Envíos mayores - #Envio menor
 
 
 
@@ -63,21 +63,25 @@ Los artículos con su propia carpeta de servicio se publican en Azure.Microsoft.
 
 Puede crear secciones de contenido reutilizable que se incluirán en uno o varios artículos. Consulte [Custom extensions used in our technical content](https://github.com/Azure/azure-content/blob/master/custom-markdown-extensions.md).
 
-### \markdown templates
+### \markdown templates    
 
 Esta carpeta contiene nuestra plantilla de Markdown estándar con el formato de Markdown básico que necesita para un artículo.
 
-### \contributor-guide
+### \contributor-guide     
 
 Esta carpeta contiene artículos que forman parte de nuestra guía del colaborador.
 
 ## Uso de GitHub, Git y este repositorio
+
+
 
 Para obtener información acerca de cómo colaborar, cómo usar la IU de GitHub para colaborar con pequeños cambios, y cómo bifurcar y clonar el repositorio para colaboraciones más importantes, consulte [Install and set up tools for authoring in GitHub](https://github.com/Azure/azure-content/blob/master/contributor-guide/tools-and-setup.md).
 
 Si instala GitBash y elige trabajar localmente, los pasos para crear una nueva bifurcación de trabajo local, realizar cambios y devolver los cambios a la bifurcación principal se indican en [Git commands for creating a new article or updating an existing article](https://github.com/Azure/azure-content/blob/master/contributor-guide/git-commands-for-master.md).
 
 ### Bifurcaciones
+
+
 
 Recomendamos crear bifurcaciones de trabajo locales dirigidas a un ámbito de cambio específico. Cada bifurcación debe limitarse a un único concepto/artículo para simplificar el flujo de trabajo y reducir la posibilidad de conflictos de combinación. Los siguientes elementos tienen el ámbito adecuado para una nueva bifurcación:
 
