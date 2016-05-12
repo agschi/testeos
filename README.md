@@ -1,4 +1,4 @@
-# Guía del colaborador de documentación técnica de Azure
+# Guía del colaborador de documentación técnica de AzureDALEAMIGODALEAMIGOOOOOOOOOOOOOOOOOOAMIGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
 
 Ha encontrado el repositorio de GitHub, que contiene los archivos de origen de la documentación técnica que se publica en el Centro de documentación de Azure en [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation).
 
