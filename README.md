@@ -105,4 +105,4 @@ AMIGO## Más recursos
 AMIGOoooooooooooooooooooooooooooooooooooooooooMASRECURSOSAMEO
 Consulte [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md) para ver todos nuestros temas de guía.
 
-<!---HONumber=AcomDC_0307_2016-->
+no funciona AMIGOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
