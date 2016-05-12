@@ -96,7 +96,13 @@ Todos los artículos de este repositorio utilizan Markdown adaptado a GitHub. A 
 Los metadatos del artículo habilitan ciertas funcionalidades en el sitio web azure.microsoft.com, como atribución del autor, atribución del colaborador, rutas de navegación, descripciones del artículo y optimizaciones SEO, así como informes que Microsoft utiliza para evaluar el rendimiento del contenido. Por lo tanto ¡los metadatos son importantes! [Consulte esta guía para asegurarse de que sus metadatos son correctos](https://github.com/Azure/azure-content/blob/master//contributor-guide/article-metadata.md).
 
 ## Más recursos
-
+AMIGO## Más recursos
+AMIGO## Más recursos
+AMIGO## Más recursos
+AMIGO## Más recursos
+AMIGO## Más recursos
+AMIGO## Más recursos
+AMIGO
 Consulte [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md) para ver todos nuestros temas de guía.
 
 <!---HONumber=AcomDC_0307_2016-->
