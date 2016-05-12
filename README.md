@@ -18,18 +18,20 @@ Gracias por su interés en la documentación de Azure.
 * [Más recursos](#Más recursos)
 * [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md) (abre una nueva página)
 
-## Formas de colaborar    
+## Formas de colaborar    LUCAS LUCAS
 
 Puede colaborar fácilmente en artículos técnicos en la interfaz de usuario de GitHub. Busque el artículo en este repositorio, o bien consulte el artículo en [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation), y haga clic en el vínculo en el artículo que lleva al archivo de origen de GitHub para el artículo.
 
 ##Información acerca de sus colaboraciones al contenido de Azure
 
-###Correcciones menores
+###Correcciones menores   
 
 Las correcciones menores o aclaraciones que se envían para la documentación y los ejemplos de código de este repositorio están cubiertos por los [Términos de Uso del Sitio Web de Microsoft Azure](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
 
 ###Envíos mayores
+
+
 
 Si se envía una solicitud de incorporación de cambios con cambios importantes o nuevos para la documentación y los ejemplos de código, pondremos un comentario en GitHub en el que le solicitaremos que envíe un Contrato de licencia de colaboración (CLC) en línea si se encuentra en uno de estos grupos:
 
@@ -40,7 +42,7 @@ Necesitamos que rellene el formulario en línea antes de poder aceptar la solici
 
 Puede encontrar información detallada en [http://azure.github.io/guidelines.html#cla](http://azure.github.io/guidelines.html#cla).
 
-## Organización del repositorio
+## Organización del repositorio    
 
 El contenido del repositorio azure-content sigue la organización de documentación de [Azure.Microsoft.com](http://azure.microsoft.com). Este repositorio contiene dos carpetas raíz:
 
