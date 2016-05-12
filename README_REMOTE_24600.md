@@ -1,11 +1,11 @@
 # Guía del colaborador de documentación técnica de Azure
-<!-----Header------>
+
 Has encontrado el repositorio de GitHub, que contiene los archivos de origen de la documentación técnica que se publica en el Centro de documentación de Azure en [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation).
 
 Este repositorio también contiene una guía para ayudarle a colaborar con nuestra documentación técnica. Para ver una lista de los artículos incluidos en la guía del colaborador, consulte [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
 Linea 666
 ## Colaboración en la documentación de Azure
-88888888888888888888888888888888888888888888888888888888888888888888888888888
+
 Gracias por su interés en la documentación de Azure.
 
 * [Formas de colaborar](#ways-to-contribute)
@@ -31,7 +31,7 @@ Puede colaborar en el [Centro de documentación de Azure](http://azure.microsoft
 
 Las correcciones menores o aclaraciones que se envían para la documentación y los ejemplos de código de este repositorio están cubiertos por los [Términos de Uso del Sitio Web de Microsoft Azure](http://azure.microsoft.com/support/legal/website-terms-of-use/).
 
-HHHHHHHH  LUCAS
+
 ###Envíos mayores
 
 Si se envía una solicitud de incorporación de cambios con cambios importantes o nuevos para la documentación y los ejemplos de código, pondremos un comentario en GitHub en el que le solicitaremos que envíe un Contrato de licencia de colaboración (CLC) en línea si se encuentra en uno de estos grupos:
@@ -108,9 +108,6 @@ Consulte [Azure technical content contributors' guide index](./contributor-guide
 <!-----Comentario dos------>
 <!-----Comentario tres------>
 <!-----Comentario cuatro------>
-<<<<<<< HEAD
-<!-----Comentario cinco------>
-=======
 
 
 
@@ -119,4 +116,3 @@ Consulte [Azure technical content contributors' guide index](./contributor-guide
 
 
 <!-----Comentario cuatro------>
->>>>>>> agschi-master

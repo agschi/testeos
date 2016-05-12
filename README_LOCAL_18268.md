@@ -3,7 +3,7 @@
 Has encontrado el repositorio de GitHub, que contiene los archivos de origen de la documentación técnica que se publica en el Centro de documentación de Azure en [http://azure.microsoft.com/documentation](http://azure.microsoft.com/documentation).
 
 Este repositorio también contiene una guía para ayudarle a colaborar con nuestra documentación técnica. Para ver una lista de los artículos incluidos en la guía del colaborador, consulte [Azure technical content contributors' guide index](https://github.com/Azure/azure-content/blob/master/contributor-guide/contributor-guide-index.md).
-Linea 666
+
 ## Colaboración en la documentación de Azure
 88888888888888888888888888888888888888888888888888888888888888888888888888888
 Gracias por su interés en la documentación de Azure.
@@ -108,15 +108,4 @@ Consulte [Azure technical content contributors' guide index](./contributor-guide
 <!-----Comentario dos------>
 <!-----Comentario tres------>
 <!-----Comentario cuatro------>
-<<<<<<< HEAD
 <!-----Comentario cinco------>
-=======
-
-
-
-
-
-
-
-<!-----Comentario cuatro------>
->>>>>>> agschi-master
