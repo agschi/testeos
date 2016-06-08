@@ -1,3 +1,0 @@
-Esta es quizá la base de datos más conocida entre la literatura de reconocimiento de modelos. El conjunto de datos es relativamente pequeño, con 50 ejemplos de cada una de las mediciones de pétalos de tres variedades de iris.<p> </p><b>Uso:</b> predecir el tipo de iris a partir de las mediciones. <p> </p><b>Investigación relacionada:</b> Fisher, R.A. (1988). Repositorio de aprendizaje automático de UCI <a href="http://archive.ics.uci.edu/ml">http://archive.ics.uci.edu/ml</a>. Irvine, CA: Universidad de California, Facultad de Ciencias de la Computación y de la Información
-
-<!---HONumber=Oct15_HO3-->

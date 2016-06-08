@@ -1,3 +1,0 @@
-Características de ejemplos de aprendizaje en el conjunto de datos de noticias de Reuters RCV1 V2. El conjunto de datos tiene 23 000 artículos nuevos junto con sus identificadores (primera columna del conjunto de datos). Los artículos están acortados, excluyen palabras reservadas y su contenido se reduce a la raíz de cada palabra. David proporcionó el conjunto de datos. D. Lewis.
-
-<!---HONumber=Oct15_HO3-->

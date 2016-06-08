@@ -1,3 +1,0 @@
-> [AZURE.WARNING]En este artículo se hace referencia a la versión preliminar original de aplicaciones de API del Servicio de aplicaciones. Para información sobre la versión preliminar actual del servicio Aplicaciones de API, consulte [Aplicaciones de API del Servicio de aplicaciones: novedades](../articles/app-service-api/app-service-api-whats-changed.md). Para ver tutoriales que muestran cómo trabajar con la versión preliminar actual del servicio Aplicaciones de API, consulte [Introducción a Aplicaciones de API](../articles/app-service-api/app-service-api-dotnet-get-started.md).
-
-<!---HONumber=AcomDC_1203_2015-->

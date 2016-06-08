@@ -1,3 +1,0 @@
-Los datos se han extraído de Wikipedia (<a href="http://www.wikipedia.org/">http://www.wikipedia.org/</a>) y se basan en artículos de cada empresa del índice S&P 500, almacenados como datos XML.<p> </p>Antes de cargarlo a Estudio de aprendizaje automático de Azure, el conjunto de datos se ha procesado como sigue:<ul><li>Se extrajo el contenido de texto para cada empresa específica</li><li>Se eliminó el formato wiki</li><li>Se eliminaron los caracteres no alfanuméricos</li><li>Se convirtió todo el texto en minúscula</li><li>Se agregaron las categorías de empresas conocidas</li></ul><p> </p>Tenga en cuenta que no se ha encontrado ningún artículo para algunas empresas, por lo que el número de registros es inferior a 500.
-
-<!---HONumber=Oct15_HO3-->

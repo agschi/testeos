@@ -1,3 +1,0 @@
-El conjunto de datos contiene información sobre películas que se han valorado en tweets de Twitter: Id. de película en IMDB, nombre, género y año de producción. Hay 17.000 películas en el conjunto de datos. El conjunto de datos se introdujo en el documento "S. Dooms, T. De Pessemier y L. Martens". MovieTweetings: un conjunto de datos sobre valoración de películas recopilado de Twitter. Taller de micromecenazgo y cálculo humano para sistemas de recomendación, CrowdRec en RecSys 2013."
-
-<!---HONumber=Oct15_HO3-->

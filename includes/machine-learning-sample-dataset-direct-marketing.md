@@ -1,3 +1,0 @@
-El conjunto de datos contiene datos de los clientes e indicaciones sobre sus respuestas a una campaña de correo directa. Cada fila representa a un cliente. El conjunto de datos contiene 9 características sobre datos demográficos del usuario y conducta en el pasado, y 3 columnas de etiqueta (visita, conversión y gasto). Visita es una columna binaria que indica que un cliente ha hecho una visita después de la campaña de marketing, conversión indica que un cliente adquirió algún artículo y gasto es el importe que se gastó. Kevin Hillstrom proporcionó el conjunto de datos para el Reto de minería de datos y análisis de correo electrónico de MineThatData.
-
-<!---HONumber=Oct15_HO3-->

@@ -1,3 +1,0 @@
-Subconjunto de la base de datos del censo de 1994 en el que se utilizan adultos trabajadores a partir de 16 años con un índice de ingresos ajustado de > 100.<p> </p><b>Uso:</b> clasificar personas utilizando valores demográficos para predecir si una persona gana más de 50.000 al año.<p> </p><b>Investigación relacionada:</b> Kohavi, R., Becker, B., (1996). Repositorio de aprendizaje automático de UCI <a href="http://archive.ics.uci.edu/ml">http://archive.ics.uci.edu/ml</a>. Irvine, CA: Universidad de California, Facultad de Ciencias de la Computación y de la Información
-
-<!---HONumber=Oct15_HO3-->

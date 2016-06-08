@@ -1,5 +1,0 @@
-Las máquinas virtuales de IaaS (máquinas virtuales) y las instancias de rol de PaaS de una red virtual reciben automáticamente una dirección IP privada de un intervalo que especifique, según la subred a la que se conecten. Esa dirección la conservan las máquinas virtuales y las instancias de rol, hasta que se retiren. Retira una máquina virtual o una instancia de rol deteniéndola desde PowerShell, la CLI de Azure o el portal de Azure. En esos casos, cuando la máquina virtual o la instancia de rol se inicia de nuevo, recibirá una dirección IP disponible de la infraestructura de Azure, que puede que no sea la misma que la que tenía anteriormente. Si apaga la VM o la instancia de rol desde el sistema operativo invitado, conserva la dirección IP que tenía.
-
-En determinados casos, desea que una máquina virtual o una instancia de rol tenga una dirección IP estática, por ejemplo, si la máquina virtual va a ejecutar DNS o va a ser un controlador de dominio. Puede hacerlo configurando una dirección IP privada estática.
-
-<!---HONumber=Oct15_HO3-->

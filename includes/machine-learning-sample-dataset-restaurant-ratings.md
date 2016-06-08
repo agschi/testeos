@@ -1,3 +1,0 @@
-Contiene valoraciones que los usuarios realizan sobre restaurantes en una escala de 0 a 2.<p> </p><b>Uso:</b> uso de este conjunto de datos, en combinación con los otros dos conjuntos de datos de restaurantes, para entrenar y probar un sistema de recomendaciones. <p> </p><b>Investigación relacionada:</b> Bache, K. and Lichman, M. (2013). Repositorio de aprendizaje automático de UCI <a href="http://archive.ics.uci.edu/ml">http://archive.ics.uci.edu/ml</a>. Irvine, CA: Universidad de California, Facultad de Ciencias de la Computación y de la Información
-
-<!---HONumber=Oct15_HO3-->

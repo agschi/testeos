@@ -1,5 +1,0 @@
-Puede crear máquinas virtuales (VM) en Azure y asociar varias interfaces de red (NIC) a cada una de ellas. Tener varias NIC es un requisito para muchos dispositivos virtuales de red, por ejemplo, en el caso de la entrega de aplicaciones y las soluciones de optimización de la WAN. Tener varias NIC también proporciona más funcionalidad a la hora de administrar el tráfico de red, incluyendo el aislamiento del tráfico entre una NIC de front-end y varias NIC de back-end o la separación entre el tráfico del plano de datos y el tráfico del plano de administración.
-
-Para poder implementar varias NIC en las máquinas virtuales, es necesario que comprenda cuándo puede usar varias NIC y cómo se utilizan. Lea la [Introducción para implementar varias NIC](virtual-networks-multiple-nics.md) y así obtener más información acerca de las máquinas virtuales con varias NIC.
-
-<!---HONumber=Nov15_HO4-->

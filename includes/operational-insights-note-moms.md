@@ -1,3 +1,0 @@
-> [AZURE.NOTE]Estamos trabajando para integrar Visión operativa en nuestro nuevo [conjunto de aplicaciones de Microsoft Operations Management](http://microsoft.com/oms). Mientras Visión operativa sigue siendo un servicio de Azure y la funcionalidad descrita en este artículo sigue siendo la misma, pronto verá cambiar las referencias de Visión operativa a conjunto de aplicaciones de Microsoft Operations Management.
-
-<!---HONumber=August15_HO6-->

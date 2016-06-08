@@ -1,4 +1,0 @@
-
-En este tema, creará un nuevo back-end de aplicación móvil, descargará y publicará el proyecto de servidor y descargará una aplicación de cliente de "lista de tareas" que se conectará al nuevo back-end de aplicación móvil. Aplicaciones móviles proporciona toda la funcionalidad de back-end del Servicio de aplicaciones, pero con características adicionales diseñadas para desarrolladores de dispositivos móviles, incluidas las notificaciones de inserción y de sincronización sin conexión. Los SDK de cliente simplifican el almacenamiento de datos basado en la nube y la autenticación en las aplicaciones. Para obtener más información, consulte [¿Qué son las aplicaciones móviles?](app-service-mobile-value-prop.md)
-
-<!---HONumber=Nov15_HO4-->

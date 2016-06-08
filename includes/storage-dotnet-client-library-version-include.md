@@ -1,3 +1,0 @@
->[AZURE.NOTE]Se recomienda que use la versión más reciente de la biblioteca de cliente de Almacenamiento de Azure para .NET para completar este tutorial. La versión más reciente de la biblioteca es la 6.x, disponible para descargarse en[Nuget](https://www.nuget.org/packages/WindowsAzure.Storage/). El código fuente de la biblioteca de cliente está disponible en [GitHub](https://github.com/Azure/azure-storage-net).
-
-<!---HONumber=Nov15_HO2-->

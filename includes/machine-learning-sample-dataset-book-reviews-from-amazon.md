@@ -1,4 +1,0 @@
-Comentarios de libros de Amazon, extraídos del sitio web amazon.com por investigadores de la Universidad de Pensilvania  
-(<a href="http://www.cs.jhu.edu/~mdredze/datasets/sentiment/">opinión</a>). Consulte el trabajo de investigación, “Biographies, Bollywood, Boom-boxes and Blenders: Domain Adaptation for Sentiment Classification” ("Biografías, Bollywoood, equipos de sonido y licuadoras") de John Blitzer, Mark Dredze y Fernando Pereira; Asociación de Lingüística Informática (ACL), 2007.<p> </p>El conjunto de datos original tiene 975.000 comentarios con una puntuación de 1, 2, 3, 4 o 5. Los comentarios están redactados en inglés y se corresponden con el período 1997-2007. Este conjunto de datos se ha muestreado para 10.000 comentarios.
-
-<!---HONumber=Oct15_HO3-->

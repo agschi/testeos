@@ -1,5 +1,0 @@
-> [AZURE.NOTE]Las dependencias ODataLib de la biblioteca de clientes de almacenamiento para .NET se resuelven a través de los paquetes ODataLib (versión 5.0.2 y superior) disponibles en NuGet, y no en los Servicios de datos de WCF. A través de NuGet, es posible descargar directamente las bibliotecas ODataLib o bien hacer referencia a ellas con el código del proyecto. Los paquetes ODataLib específicos utilizados por la biblioteca de cliente de almacenamiento son [OData](http://nuget.org/packages/Microsoft.Data.OData/5.0.2), [Edm](http://nuget.org/packages/Microsoft.Data.Edm/5.0.2) y [Spatial](http://nuget.org/packages/System.Spatial/5.0.2) (Espacial).
-> 
-> Aunque las clases de almacenamiento de tabla de Azure usan estas bibliotecas, son dependencias necesarias para programar con la biblioteca de cliente de almacenamiento.
-
-<!---HONumber=Oct15_HO3-->

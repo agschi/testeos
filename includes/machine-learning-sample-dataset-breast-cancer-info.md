@@ -1,3 +1,0 @@
-El conjunto de datos contiene información adicional para cada región sospechosa de imagen de rayos X. Cada ejemplo proporciona información (por ejemplo, etiqueta, identificador de paciente,coordenadas de la zona a tratar en relación con toda la imagen) sobre el número de fila correspondiente en el conjunto de datos Características de cáncer de mama. Cada paciente tiene una serie de ejemplos. Para los pacientes con cáncer, algunos ejemplos son positivos y otros son negativos. Para los pacientes que no tienen cáncer, todos los ejemplos son negativos. El conjunto de datos tiene 102 000 ejemplos. El conjunto de datos está sesgado, el 0,6% de los puntos es positivo y el resto es negativo. Siemens Healthcare proporcionó el conjunto de datos.
-
-<!---HONumber=Oct15_HO3-->

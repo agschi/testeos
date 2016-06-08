@@ -1,3 +1,0 @@
-Subconjunto de datos de la base de datos del Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales. El conjunto de datos se filtró para centrarse en pacientes femeninos con herencia de indios pima. Los datos incluyen datos médicos como los niveles de glucosa e insulina, así como factores del ciclo de vida.<p> </p><b>Uso:</b>predecir si el sujeto tiene diabetes (clasificación binaria). <p> </p><b>Investigación relacionada:</b> Sigillito, V. (1990). Repositorio de aprendizaje automático de UCI <a href="http://archive.ics.uci.edu/ml">http://archive.ics.uci.edu/ml</a>. Irvine, CA: Universidad de California, Facultad de Ciencias de la Computación y de la Información
-
-<!---HONumber=Oct15_HO3-->

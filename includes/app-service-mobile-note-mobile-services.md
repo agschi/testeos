@@ -1,5 +1,0 @@
->[AZURE.NOTE]Este tema trata sobre **Aplicaciones móviles de Azure**. Para ver el contenido de Servicios móviles, consulte el [Centro de documentación de Servicios móviles](/documentation/services/mobile-services/).
->
->El servicio Aplicaciones móviles del Servicio de aplicaciones es nuestra plataforma de back-end móvil más reciente y [le ofrece ventajas adicionales](app-service-mobile-value-prop-migration-from-mobile-services.md) sobre Servicios móviles. Se recomienda [migrar al Servicio de aplicaciones](app-service-mobile-migrating-from-mobile-services.md) a los clientes que usan el SDK de back-end de .NET. Sin embargo, el [SDK de Node para Aplicaciones móviles](https://github.com/azure/azure-mobile-apps-node) se encuentra actualmente en versión preliminar y no se recomienda para su uso en producción. Los contratos de SDK y API están sujetos a cambios en las versiones secundarias.
-
-<!---HONumber=AcomDC_1223_2015-->

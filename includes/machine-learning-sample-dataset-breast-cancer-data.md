@@ -1,3 +1,0 @@
-Uno de los tres conjuntos de datos relacionados con el cáncer facilitados por el Instituto de Oncología que aparece frecuentemente en la literatura sobre aprendizaje automático. Combina información de diagnóstico con características de análisis de laboratorio de unas 300 muestras de tejido.<p> </p><b>Uso:</b> clasificar el tipo de cáncer basándose en nueve atributos, algunos de los cuales son lineales y otros categóricos. <p> </p><b>Investigación relacionada:</b> Wohlberg, W.H., Street, W.N., & Mangasarian, O.L. (1995). Repositorio de aprendizaje automático de UCI <a href="http://archive.ics.uci.edu/ml">http://archive.ics.uci.edu/ml</a>. Irvine, CA: Universidad de California, Facultad de Ciencias de la Computación y de la Información
-
-<!---HONumber=Oct15_HO3-->
