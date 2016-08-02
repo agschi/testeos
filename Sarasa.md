@@ -21,7 +21,7 @@
 
 Da es mehrere Arten von Azure Multi-Factor Authentication gibt, müssen Sie einige Fragen klären, um herauszufinden, welche Version für Sie die richtige ist. Fragen:
 
--	[Was möchte ich sichern?](#Was-mochte-ich-sichern?)
+-	[Was möchte ich sichern?](#was-mochte-ich-sichern?)
 -	[Wo befinden sich die Benutzer?](#Wo befinden sich die Benutzer)
 
 In den folgenden Abschnitten erhalten Sie Informationen, die Ihnen helfen, die Antworten auf diese Fragen zu geben.
