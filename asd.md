@@ -1,6 +1,6 @@
 <properties
     pageTitle="Site Recovery (VMware to Azure)/Reprotect VM after failover"
-    description="Site Recovery (VMware -> Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení"
+    description="Site Recovery (VMware to Azure)/Reprotect VM after failover"
     service="microsoft.recoveryservices"
     resource="vaults"
     authors="aashu"
@@ -9,12 +9,14 @@
     supportTopicIds="32536447"
     resourceTags=""
     productPesIds="15207"
-    cloudEnvironments="public"/>
+    cloudEnvironments="public"
+/>
 
 
 # Site Recovery (VMware TO Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
 
 Běžné problémy během navrácení služeb po obnovení nebo znovuzapnutí ochrany
+
 ## **Doporučené kroky**
 
 * Účet vCenter použitý pro zjišťování by měl mít správná oprávnění pro navrácení služeb po obnovení. <br>
