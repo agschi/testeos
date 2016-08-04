@@ -12,7 +12,8 @@
     cloudEnvironments="public"
 />
 
-# Site Recovery (VMware -> Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
+
+# Site Recovery (VMware To Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
 
 Běžné problémy během navrácení služeb po obnovení nebo znovuzapnutí ochrany
 
