@@ -1,6 +1,6 @@
 <properties
     pageTitle="Site Recovery (VMware to Azure)/Reprotect VM after failover"
-    description="Site Recovery (VMware to Azure)/Reprotect VM after failover"
+    description="Site Recovery (VMware -> Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení"
     service="microsoft.recoveryservices"
     resource="vaults"
     authors="aashu"
@@ -12,8 +12,7 @@
     cloudEnvironments="public"
 />
 
-
-# Site Recovery (VMware TO Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
+# Site Recovery (VMware -> Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
 
 Běžné problémy během navrácení služeb po obnovení nebo znovuzapnutí ochrany
 
