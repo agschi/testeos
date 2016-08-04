@@ -9,8 +9,7 @@
     supportTopicIds="32536447"
     resourceTags=""
     productPesIds="15207"
-    cloudEnvironments="public"
-/>
+    cloudEnvironments="public"/>
 
 
 # Site Recovery (VMware TO Azure)/Znovuzapnutí ochrany virtuálního počítače po navrácení služeb po obnovení
