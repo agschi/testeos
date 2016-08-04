@@ -41,7 +41,7 @@ Asegúrese de que el almacén de datos está montado como de lectura y escritura
 * [Aquí también se mostrarán algunos problemas comunes](https://aka.ms/asrsupfailbackcommonissues)
 
 ## **Documentos recomendados**
-La [documentación completa sobre la conmutación por recuperación está aquí](https://aka.ms/asrsupv2afailback)
+La documentación completa sobre la [conmutación por recuperación está aquí](https://aka.ms/asrsupv2afailback)
 
 
 
